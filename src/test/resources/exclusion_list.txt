@@ -1,0 +1,5 @@
+test@test.com
+test2@test.com
+
+
+invalid_email_should_be_ignored
